@@ -1,0 +1,9 @@
+---
+applications:
+- services:
+  - med-conversation-demo
+  memory: 512M
+  path: target/Chatbot.war
+  name: medimpactjavademo
+  host: medimpactjavademo
+
